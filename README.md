@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Todo-list
 # Todo-list
 # Todo-list
+
+
+
+# folder "to do basics "
+<img width="256" alt="Screen Shot 2023-08-22 at 4 53 58 PM" src="https://github.com/White-OvO/Todo-list/assets/120700219/82345a33-0986-4af1-8140-9bd8d6774fd9">
